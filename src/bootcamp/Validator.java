@@ -1,5 +1,17 @@
-package bootcamp;
+/**
+ * James Bryant II
+ * and Christopher Namyst
+ * 2/2/17
+ * ExponentTable.java
+ *
+ * This program takes a user inputted number,
+ * and displays a table of Powers(Exponents)
+ *
+ * Extended Challenges :
+ * NONE
+ */
 
+package bootcamp;
 import java.util.Scanner;
 
 public class Validator {
